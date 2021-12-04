@@ -22,3 +22,4 @@ if __name__=="__main__":
 		if second_window_sum > first_window_sum:
 			counter2 += 1
 	print("Solution 2 is :: ",counter2)
+	fp.close()
